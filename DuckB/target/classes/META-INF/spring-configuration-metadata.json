@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "database",
+      "type": "of.common.model.DataBaseProperties",
+      "sourceType": "of.common.model.DataBaseProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "database.drivername",
+      "type": "java.lang.String",
+      "sourceType": "of.common.model.DataBaseProperties"
+    },
+    {
+      "name": "database.password",
+      "type": "java.lang.String",
+      "sourceType": "of.common.model.DataBaseProperties"
+    },
+    {
+      "name": "database.url",
+      "type": "java.lang.String",
+      "sourceType": "of.common.model.DataBaseProperties"
+    },
+    {
+      "name": "database.username",
+      "type": "java.lang.String",
+      "sourceType": "of.common.model.DataBaseProperties"
+    }
+  ],
+  "hints": []
+}
